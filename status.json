@@ -1,4 +1,4 @@
 {
-  "enabled": true,
-  "message": "Active."
+  "enabled": false,
+  "message": "Application is currently disabled."
 }
