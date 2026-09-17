@@ -1,4 +1,4 @@
 {
-  "enabled": true,
-  "message": "Application is active."
+  "enabled": false,
+  "message": "Application temporarily disabled by administrator."
 }
